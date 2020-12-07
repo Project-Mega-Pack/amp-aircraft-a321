@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/aircraft.cfg",
+      "size": 2449,
+      "date": 132517870656835500
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/MODEL.MAIN/model.cfg",
+      "size": 124,
+      "date": 132517870253169764
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/A321_1_T.dds",
+      "size": 1398224,
+      "date": 132086086320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/A321_1_T_spec.dds",
+      "size": 1398224,
+      "date": 132086086320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/A321_2_T.dds",
+      "size": 1398224,
+      "date": 132086086320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/A321_2_T_spec.dds",
+      "size": 1398224,
+      "date": 132086086320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/Fresnel_Ramp.dds",
+      "size": 640,
+      "date": 132086092980000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/texture.cfg",
+      "size": 124,
+      "date": 132517870386307740
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/thumbnail.jpg",
+      "size": 6752,
+      "date": 132086091740000000
+    }
+  ]
+}
