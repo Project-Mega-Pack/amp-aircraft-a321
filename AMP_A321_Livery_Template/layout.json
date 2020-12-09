@@ -3,12 +3,12 @@
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/aircraft.cfg",
       "size": 2449,
-      "date": 132517870656835500
+      "date": 132519563764418502
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/MODEL.MAIN/model.cfg",
-      "size": 124,
-      "date": 132517870253169764
+      "size": 123,
+      "date": 132519564225789698
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/A321_1_T.dds",
@@ -37,8 +37,8 @@
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/texture.cfg",
-      "size": 124,
-      "date": 132517870386307740
+      "size": 52,
+      "date": 132519563645401566
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321-Livery_Temlate/TEXTURE.TEMPLATE/thumbnail.jpg",
