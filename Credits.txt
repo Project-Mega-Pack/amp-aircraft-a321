@@ -2,3 +2,4 @@ Original FSX Conversion by wassabi_sniper🇨🇦#1087, Canadian Mods
 Flight Model, Compatability by Clink123#4567
 Textures by Berinchtein#3663
 Engine Sounds Created By Kairi#5160, FTSIM+ Sounds, Added With Permission of Kairi#5160, for Proof, ask Clink123#4567
+Lighting Courtesy of wbrock32, https://flightsim.to/file/2795/a321-light-fix
