@@ -1,11 +1,6 @@
 {
   "content": [
     {
-      "path": "MSFSLayoutGenerator.exe",
-      "size": 363520,
-      "date": 132509230752748653
-    },
-    {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/ai.cfg",
       "size": 774,
       "date": 132517905550000000
@@ -82,8 +77,8 @@
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/systems.cfg",
-      "size": 19232,
-      "date": 132517905550000000
+      "size": 19205,
+      "date": 132492535816868809
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/target_performance.cfg",
@@ -117,8 +112,8 @@
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Model/model.cfg",
-      "size": 92,
-      "date": 132519481456182265
+      "size": 624,
+      "date": 132527157836305111
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Panel/panel.cfg",
@@ -623,27 +618,27 @@
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/A321_1_T.dds",
       "size": 67108992,
-      "date": 132517905550000000
+      "date": 132527096540000000
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/A321_1_T_spec.dds",
-      "size": 4194432,
-      "date": 132517905550000000
+      "size": 67108992,
+      "date": 132526992100000000
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/A321_2_T.dds",
-      "size": 1398224,
-      "date": 132517905550000000
+      "size": 67108992,
+      "date": 132527022300000000
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/A321_2_T_spec.dds",
-      "size": 1398224,
-      "date": 132517905550000000
+      "size": 67108992,
+      "date": 132527022800000000
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/Fresnel_Ramp.dds",
       "size": 640,
-      "date": 132517905550000000
+      "date": 132086200980000000
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/texture.cfg",
@@ -653,7 +648,7 @@
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/thumbnail.jpg",
       "size": 1245051,
-      "date": 132517905550000000
+      "date": 132516754600000000
     }
   ]
 }
