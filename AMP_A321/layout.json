@@ -57,8 +57,8 @@
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/flight_model.cfg",
-      "size": 27341,
-      "date": 132518814788167090
+      "size": 27674,
+      "date": 132532449379474214
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/gameplay.cfg",
@@ -618,7 +618,7 @@
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/A321_1_T.dds",
       "size": 67108992,
-      "date": 132527096540000000
+      "date": 132528077640000000
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/A321_1_T_spec.dds",
@@ -647,8 +647,8 @@
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture.Default/thumbnail.jpg",
-      "size": 1245051,
-      "date": 132516754600000000
+      "size": 82979,
+      "date": 132529768499129352
     }
   ]
 }
