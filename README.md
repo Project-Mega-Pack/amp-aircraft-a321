@@ -1,4 +1,4 @@
-# Aircraft Mega Pack A321
+# Project Mega Pack A321-200
 
 To install, simply drop `AMP_A321` into your Community Folder.
 
