@@ -1,5 +1,7 @@
 # Project Mega Pack A321-200
 
+[![Discord](https://img.shields.io/discord/746450820077453393.svg?label=&logo=discord&logoColor=ffffff&color=7289DA&labelColor=7289DA)](https://discord.gg/megapack)
+
 To install, simply drop `AMP_A321` into your Community Folder.
 
 To create liveries, use the `AMP_A321_Livery_Template`.
