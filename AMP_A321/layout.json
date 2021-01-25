@@ -57,8 +57,8 @@
 	},
 	{
 	  "path": "effects/LIGHT_AMP_LogoLightLarge.fx",
-	  "size": 1277,
-	  "date": 1610254804292
+	  "size": 1273,
+	  "date": 1611560630471
 	},
 	{
 	  "path": "effects/LIGHT_AMP_NavigationGreen.fx",
@@ -121,6 +121,21 @@
 	  "date": 1610021544072
 	},
 	{
+	  "path": "html_ui/Pages/VCockpit/Instruments/Airliners/A321/CDU/A320_Neo_CDU.css",
+	  "size": 3367,
+	  "date": 1611506907964
+	},
+	{
+	  "path": "html_ui/Pages/VCockpit/Instruments/Airliners/A321/CDU/A321_CDU.html",
+	  "size": 4296,
+	  "date": 1611586633397
+	},
+	{
+	  "path": "html_ui/Pages/VCockpit/Instruments/Airliners/A321/CDU/A321_CDU_IdentPage.js",
+	  "size": 654,
+	  "date": 1611586727345
+	},
+	{
 	  "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/ai.cfg",
 	  "size": 774,
 	  "date": 1608829916000
@@ -177,8 +192,8 @@
 	},
 	{
 	  "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/flight_model.cfg",
-	  "size": 25912,
-	  "date": 1611492398396
+	  "size": 25931,
+	  "date": 1611561229043
 	},
 	{
 	  "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/gameplay.cfg",
@@ -232,8 +247,13 @@
 	},
 	{
 	  "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Panel/panel.cfg",
-	  "size": 35,
-	  "date": 1608829916000
+	  "size": 2404,
+	  "date": 1611586522093
+	},
+	{
+	  "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Panel/panel.xml",
+	  "size": 18925,
+	  "date": 1611515885019
 	},
 	{
 	  "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/sound/Asobo_A320_NEO.PC.PCK",
@@ -623,7 +643,7 @@
 	{
 	  "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.dds",
 	  "size": 4194432,
-	  "date": 1610021676127
+	  "date": 1611563622653
 	},
 	{
 	  "path": "SimObjects/AIRPLANES/AMP_Airbus_A321/Texture/A320NEO_COCKPIT_DECALSTEXT_EMIS.PNG.DDS.json",
