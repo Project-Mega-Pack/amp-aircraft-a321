@@ -130,7 +130,7 @@ Y Scale Goal=0.0
 Z Scale Goal=0.0
 NearEndFade= 1.0
 NearFade= 6.0
-MinProjSize= 0.2			
+MinProjSize= 0.7			
 
 [LightAttributes.1]
 Type=spot
